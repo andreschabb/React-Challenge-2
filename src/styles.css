@@ -1,4 +1,15 @@
 .App {
   font-family: sans-serif;
   text-align: center;
+  padding-top: 20px;
+}
+
+.PokeCard {
+  border-style: groove;
+  border-color: rgb(221, 86, 37);
+  border-width: 8px;
+}
+
+#video {
+  color: rgb(114, 7, 7);
 }
